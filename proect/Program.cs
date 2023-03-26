@@ -8,7 +8,7 @@
 
 string[] FillArray(int length)
 {
-   string[] resultArray = new string[length];
+    string[] resultArray = new string[length];
 
     for (int i = 0; i < length; i++)
     {
@@ -29,4 +29,29 @@ void ShowArray(string[] array)
     }
 
     Console.WriteLine();
+}
+
+string[] FilterArray(string[] array, int count)
+{
+    int length = array.Length;
+    int targetCount = 0;
+    string[] tempArray = new string[length];
+
+    for (int i = 0; i < length; i++)
+    {
+        if (array[i].Length <= count)
+        {
+            tempArray[targetCount] = array[i];
+            targetCount++;
+        }
+    }
+
+    string[] resultArray = new string[targetCount];
+
+    for (int i = 0; i < targetCount; i++)
+    {
+        resultArray[i] = tempArray[i];
+    }
+
+    return resultArray;
 }

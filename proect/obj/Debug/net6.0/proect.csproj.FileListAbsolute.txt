@@ -1,0 +1,15 @@
+D:\GBLearning\IPR_Choice_of_specialization\IPR_Choice_of_specialization\proect\bin\Debug\net6.0\proect.exe
+D:\GBLearning\IPR_Choice_of_specialization\IPR_Choice_of_specialization\proect\bin\Debug\net6.0\proect.deps.json
+D:\GBLearning\IPR_Choice_of_specialization\IPR_Choice_of_specialization\proect\bin\Debug\net6.0\proect.runtimeconfig.json
+D:\GBLearning\IPR_Choice_of_specialization\IPR_Choice_of_specialization\proect\bin\Debug\net6.0\proect.dll
+D:\GBLearning\IPR_Choice_of_specialization\IPR_Choice_of_specialization\proect\bin\Debug\net6.0\proect.pdb
+D:\GBLearning\IPR_Choice_of_specialization\IPR_Choice_of_specialization\proect\obj\Debug\net6.0\proect.csproj.AssemblyReference.cache
+D:\GBLearning\IPR_Choice_of_specialization\IPR_Choice_of_specialization\proect\obj\Debug\net6.0\proect.GeneratedMSBuildEditorConfig.editorconfig
+D:\GBLearning\IPR_Choice_of_specialization\IPR_Choice_of_specialization\proect\obj\Debug\net6.0\proect.AssemblyInfoInputs.cache
+D:\GBLearning\IPR_Choice_of_specialization\IPR_Choice_of_specialization\proect\obj\Debug\net6.0\proect.AssemblyInfo.cs
+D:\GBLearning\IPR_Choice_of_specialization\IPR_Choice_of_specialization\proect\obj\Debug\net6.0\proect.csproj.CoreCompileInputs.cache
+D:\GBLearning\IPR_Choice_of_specialization\IPR_Choice_of_specialization\proect\obj\Debug\net6.0\proect.dll
+D:\GBLearning\IPR_Choice_of_specialization\IPR_Choice_of_specialization\proect\obj\Debug\net6.0\refint\proect.dll
+D:\GBLearning\IPR_Choice_of_specialization\IPR_Choice_of_specialization\proect\obj\Debug\net6.0\proect.pdb
+D:\GBLearning\IPR_Choice_of_specialization\IPR_Choice_of_specialization\proect\obj\Debug\net6.0\proect.genruntimeconfig.cache
+D:\GBLearning\IPR_Choice_of_specialization\IPR_Choice_of_specialization\proect\obj\Debug\net6.0\ref\proect.dll

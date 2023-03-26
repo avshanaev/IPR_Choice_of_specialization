@@ -55,3 +55,15 @@ string[] FilterArray(string[] array, int count)
 
     return resultArray;
 }
+
+Console.Write("Введите длинну массива: ");
+int length = int.Parse(Console.ReadLine());
+
+string[] array = FillArray(length);
+ShowArray(array);
+
+Console.Write("Введите длинну строки для отбора: ");
+int count = int.Parse(Console.ReadLine());
+
+string[] resultArray = FilterArray(array,count);
+ShowArray(resultArray);
